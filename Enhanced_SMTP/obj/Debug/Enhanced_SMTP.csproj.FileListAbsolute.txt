@@ -1,0 +1,5 @@
+C:\Users\dnigam\source\repos\Enhanced_SMTP\Enhanced_SMTP\bin\Debug\Enhanced_SMTP.dll
+C:\Users\dnigam\source\repos\Enhanced_SMTP\Enhanced_SMTP\bin\Debug\Enhanced_SMTP.pdb
+C:\Users\dnigam\source\repos\Enhanced_SMTP\Enhanced_SMTP\obj\Debug\Enhanced_SMTP.csprojAssemblyReference.cache
+C:\Users\dnigam\source\repos\Enhanced_SMTP\Enhanced_SMTP\obj\Debug\Enhanced_SMTP.dll
+C:\Users\dnigam\source\repos\Enhanced_SMTP\Enhanced_SMTP\obj\Debug\Enhanced_SMTP.pdb
